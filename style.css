@@ -810,7 +810,7 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg-min.jpg");
+    background-image: url("img/dots-bg.jpg");
 }
 
 .bg-lines-h2-bg {
@@ -822,7 +822,7 @@ h4 {
 }
 
 .bg-presentation {
-    background-image: url("premier-projet/img/image-de-presentation-min.jpg");
+    background-image: url("img/image-de-presentation.jpg");
 }
 
 @media (max-width: 1024px) {
