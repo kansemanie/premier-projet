@@ -89,7 +89,12 @@ a:hover {
     left: 0;
     right: 0;
 }
-
+.#bloc-5-cta: {
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", "Helvetica", "Arial";
+    font-size: 22px;
+    font-weight: bold;
+    text-shadow: 0 0 0.2em #FFFFFF, 0 0 0.2em #FFFFFF
+}
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
