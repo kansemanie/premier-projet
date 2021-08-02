@@ -791,8 +791,9 @@ h4 {
     font-weight: 700;
 }
 }
-.tc-white-2:: before
+.tc-white-2:
 {
+    z-index: 1;
     color: #F3976C!important;
     font-size: 22px;
     font-weight: 900;
