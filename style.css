@@ -659,7 +659,7 @@ a {
     max-width: 1000px;
 }
 
-.hero-bloc-text {
+.h1 {
     font-size: 38px;
 }
 
@@ -773,7 +773,7 @@ h4 {
 }
 
 .bgc-dark-slate-blue {
-    background-color: #BABCD0;
+    background-color: #364577;
 }
 
 .bgc-atomic-tangerine {
