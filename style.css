@@ -699,6 +699,11 @@ p {
     font-weight: 700;
 }
 
+.cta-hero-1
+
+font-size: 16px;
+font-weight: 800;
+
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
@@ -708,6 +713,7 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+
 
 h3 {
     font-size: 15px;
