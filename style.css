@@ -92,7 +92,7 @@ a:hover {
 
 .div#test1 { position: absolute;z-index: 3; }
 .div#test2 {position: relative;z-index: 2;}
-.div#test3{position: relative;1}
+.div#test3{position: relative;z-index : auto;}
 
 .texture-paper::before {
     background: url("img/texture-paper.png");
