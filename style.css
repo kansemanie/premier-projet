@@ -699,10 +699,12 @@ p {
     font-weight: 700;
 }
 
-.cta-hero-1
+.cta-hero-1{
+    font-size: 30px;
+    font-weight: 800;
+}
 
-font-size: 18px;
-font-weight: 800;
+
 
 .social {
     max-width: 400px;
