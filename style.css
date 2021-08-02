@@ -90,6 +90,10 @@ a:hover {
     right: 0;
 }
 
+.div#test1 { position: absolute;z-index: 3; }
+.div#test2 {position: absolute;z-index: 2;}
+.div#test3{position: absolute;1}
+
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
@@ -791,7 +795,7 @@ h4 {
     font-weight: 700;
 }
 }
-.tc-white-2:
+.tc-white-2::before 
 {
     z-index: 1;
     color: #F3976C!important;
