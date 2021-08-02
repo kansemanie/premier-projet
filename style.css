@@ -786,10 +786,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #F3976C!important;}
+    
+.tc-white-1 {color: #F3976C
     font-size: 18px;
     font-style: normal;
-    font-weight: 700;
+    font-weight: 700;}
 }
 .font-size-h2 {
     font-size: 22px;
