@@ -81,7 +81,7 @@ a:hover {
     background: top no-repeat;
 }
 
-.bloc-bg-texture {
+.bloc-bg-texture ::before {
     content: "";
     background-size: 2px 2px;
     position: absolute;
@@ -100,7 +100,7 @@ a:hover {
 }
 
 
-.texture-paper {
+.texture-paper:: before{
     background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
